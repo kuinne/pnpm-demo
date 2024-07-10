@@ -1,5 +1,14 @@
 # @kuinne/b
 
+## 1.2.3
+
+### Patch Changes
+
+- [`565745d`](https://github.com/kuinne/pnpm-demo/commit/565745d65d7878dd0eee1303efe87f379e1ad6bd) - 修复 bug4
+
+- Updated dependencies [[`86c4509`](https://github.com/kuinne/pnpm-demo/commit/86c4509c61a57c26617e3888f1472f3ce4e2c0b7)]:
+  - @kuinne/a@3.0.2
+
 ## 1.2.2
 
 ### Patch Changes
