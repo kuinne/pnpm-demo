@@ -33,20 +33,18 @@ importers:
 
   packages/b:
     specifiers:
-      '@kuinne/a': ^2.0.1
+      '@kuinne/a': ^3.0.0
     dependencies:
       '@kuinne/a': link:../a
 
   packages/c:
     specifiers:
-      '@kuinne/a': workspace:^2.0.3
-      '@kuinne/b': link:../b
+      '@kuinne/a': workspace:^3.0.0
       date-fns-tz: ^3.1.3
       dayjs: ^1.11.11
       is-odd: ^3.0.1
     dependencies:
       '@kuinne/a': link:../a
-      '@kuinne/b': link:../b
       date-fns-tz: 3.1.3
       is-odd: 3.0.1_ttqqvnq3nleaopeuwqcuvhwdka
     devDependencies:
