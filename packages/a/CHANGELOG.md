@@ -1,5 +1,11 @@
 # @kuinne/a
 
+## 3.0.3
+
+### Patch Changes
+
+- [`ecf3415`](https://github.com/kuinne/pnpm-demo/commit/ecf34156c4e0f3f70d02cd707b421fc28ba6236b) - 修复 bug4
+
 ## 3.0.2
 
 ### Patch Changes
